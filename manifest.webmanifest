@@ -1,0 +1,26 @@
+{
+  "name": "SMART SHOP — স্মার্ট শপ",
+  "short_name": "SMART SHOP",
+  "description": "SMART SHOP অনলাইন শপিং",
+  "lang": "bn-BD",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#123b2b",
+  "background_color": "#f7faf8",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
